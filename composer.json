@@ -1,5 +1,5 @@
 {
-  "name": "dealerdirect/phpcodesniffer-composer-installer",
+  "name": "potherca/phpcodesniffer-composer-installer",
   "description": "⚠️ Please migrate to phpcsstandards/composer-installer ⚠️",
   "type": "composer-plugin",
   "abandoned": true,
